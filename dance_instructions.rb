@@ -30,3 +30,8 @@ def lasso
   puts "Ser to lasso"
   puts "Raise"
 end
+
+def bust a move
+  puts "Be cool"
+  puts "Be snazzy"
+end
