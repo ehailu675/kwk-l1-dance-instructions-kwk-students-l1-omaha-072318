@@ -5,4 +5,4 @@ def starting_stance
 end
 
 def skip_step
-  puts ""
+  puts "Lower left foot to the ground"
