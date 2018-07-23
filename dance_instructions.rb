@@ -19,4 +19,5 @@ def bob_the_reins
   puts "Bob it out"
   puts "Hold"
   puts "Cross"
+  puts "Lift"
 end
