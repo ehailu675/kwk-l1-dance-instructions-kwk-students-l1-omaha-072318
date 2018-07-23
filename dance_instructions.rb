@@ -32,5 +32,5 @@ def lasso
 end
 
 def bust a move
-  puts "Be cool"
+  puts "Bust a move"
 end
