@@ -33,5 +33,4 @@ end
 
 def bust a move
   puts "Be cool"
-  puts "Be snazzy"
 end
