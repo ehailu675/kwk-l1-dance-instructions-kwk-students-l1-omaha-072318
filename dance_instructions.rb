@@ -31,6 +31,6 @@ def lasso
   puts "Raise"
 end
 
-def bust a move
-  puts "to bust a move"
+def bust_a_move
+  puts "Be cool and be snazzy"
 end
