@@ -22,3 +22,6 @@ def bob_the_reins
   puts "Lift"
   puts "Do"
 end
+
+def lasso
+  puts ""
