@@ -32,5 +32,5 @@ def lasso
 end
 
 def bust a move
-  puts "Be cool and be snazzy"
+  puts "to bust a move"
 end
