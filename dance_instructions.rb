@@ -27,4 +27,5 @@ def lasso
   puts "Lift"
   puts "Start"
   puts "Ser to lasso"
+  puts "Raise"
 end
