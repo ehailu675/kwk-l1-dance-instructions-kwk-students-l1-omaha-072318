@@ -24,5 +24,6 @@ def bob_the_reins
 end
 
 def lasso
-  puts "ser to lasso"
+  puts "Start"
+  puts "Ser to lasso"
 end
