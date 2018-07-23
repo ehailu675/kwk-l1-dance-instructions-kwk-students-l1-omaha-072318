@@ -9,3 +9,7 @@ def skip_step(left)
   puts "Bounce"
   puts "Briefly"
 end
+
+def base_footwork
+  puts "lift and return right foot"
+end
